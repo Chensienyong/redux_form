@@ -1,0 +1,12 @@
+.loader-container {
+    background-color: #EEE;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    -moz-opacity:.80;
+    filter:alpha(opacity=80);
+    opacity:.80;
+    z-index: 10000000;
+}
